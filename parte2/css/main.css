@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+	position:;
+}
+
+.azul{
+	background-color: blue;
+	height: 400px;
+	width: 400px;
+	position:;
+}
+
+.verde{
+	background-color: green;
+	height: 200Px;
+	width: 200px;
+	position: absolute;
+	left: 100px;
+	top:100px;
+
+}
+
+.negro{
+	background-color: black; 
+	height: 100px;
+	width: 100Px;
+	position:;
+
+}
+/* Inserta tu CSS aqui */
